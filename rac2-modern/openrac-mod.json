@@ -1,0 +1,16 @@
+{
+  "format": 2,
+  "id": "rac2-modern",
+  "name": "RAC-2Modern",
+  "version": "0.1.0",
+  "author": "dakajod-lab",
+  "description": "A modern look for Going Commando, one planet at a time, starting with Aranos and Oozla. 0.1.0 is the foundation: it loads and writes a line in the game's log, and changes nothing on screen yet.",
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://github.com/dakajod-lab/RAC-2Modern",
+  "type": "script",
+  "api": "1.1",
+  "scripts": ["main.luau"],
+  "games": { "rac2": ["pal"] },
+  "assets": "assets",
+  "multiplayer": "cosmetic"
+}
