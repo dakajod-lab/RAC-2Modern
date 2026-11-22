@@ -1,0 +1,24 @@
+# Build output and the SDK tools/fetch_sdk.py unpacks
+/build/
+/dist/
+/.sdk/
+__pycache__/
+.DS_Store
+
+# Your own working data: exports and dumps of your disc, never committed (CONTENT_POLICY.md)
+/private/
+exports/
+texture_dumps/
+interface_runs/
+
+# Disc images, game files and archives: never in this repository
+*.iso
+*.chd
+*.cso
+*.bin
+*.elf
+*.irx
+*.wad
+*.zip
+*.7z
+*.rar
