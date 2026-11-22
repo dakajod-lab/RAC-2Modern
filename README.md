@@ -3,8 +3,8 @@
 *Ratchet & Clank 2: Going Commando* (*Locked and Loaded* in Europe), given a modern look, one
 planet at a time.
 
-> **På svenska.** RAC-2Modern är en fan-remaster av Going Commandos två första planeter,
-> **Aranos** och **Oozla**. Den körs ovanpå [OpenRAC](https://github.com/OpenRAC/OpenRAC), den
+> **På svenska.** RAC-2Modern är en fan-remaster av hela Going Commando, en planet i taget. Den
+> börjar med de två första, **Aranos** och **Oozla**. Den körs ovanpå [OpenRAC](https://github.com/OpenRAC/OpenRAC), den
 > dekompilerade PC-porten av spelet. Målet är en look i stil med de nya Ratchet & Clank-spelen, med
 > nya material, ljus, texturer och modeller. Du behöver din egen skiva, och repot innehåller inget
 > från spelet. Så här testar du: [docs/TESTA.md](docs/TESTA.md).
@@ -14,8 +14,8 @@ planet at a time.
 RAC-2Modern is a mod for [OpenRAC](https://github.com/OpenRAC/OpenRAC), which decompiles the
 PlayStation 2 game into C and runs it natively on PC from the player's own disc. OpenRAC already
 draws the game with a modern Vulkan renderer (Enhanced graphics: probe lighting, modern shadows,
-ambient occlusion, a material system). RAC-2Modern adds the content: new materials, lights,
-textures and models, starting with:
+ambient occlusion, a material system). RAC-2Modern adds the content for the whole game, new
+materials, lights, textures and models, one planet at a time, starting with:
 
 | Level | Planet | Status |
 |---|---|---|
